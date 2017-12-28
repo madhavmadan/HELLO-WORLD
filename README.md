@@ -1,2 +1,4 @@
 # HELLO-WORLD
-My First Program.
+Hello World
+I am Tech Lover . 
+I Like AI , Application Development ,Software Development .
